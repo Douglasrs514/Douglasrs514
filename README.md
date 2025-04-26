@@ -91,7 +91,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="200" 
     style="padding-right: 10px;
     "src="https://github-readme-stats.vercel.app/api?username=Douglasrs514&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -99,7 +99,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasrs514&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 </p>
