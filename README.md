@@ -103,3 +103,9 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasrs514&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
+
+###
+
+<img src="https://raw.githubusercontent.com/larissabrezende/larissabrezende/output/snake.svg" alt="Snake animation" />
+
+###
