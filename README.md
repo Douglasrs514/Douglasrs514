@@ -1,16 +1,22 @@
 # 👨🏽‍💻 Douglas Ribeiro
 
 **`Desenvolvedor FullStack`**
-
+###
 👋 Olá, sou o Douglas!
 Desenvolvedor Full Stack em formação, cearense e apaixonado por tecnologia.
+###
 
-🎓 Estudando Análise e Desenvolvimento de Sistemas pela Gran Faculdade
-💻 Focado em JavaScript (front-end) e Java com Spring Boot (back-end)
-🚀 Buscando evolução contínua, boas práticas e entrega de valor
+🎓 Estudando Análise e Desenvolvimento de Sistemas pela Gran Faculdade.
+###
+💻 Focado em JavaScript (front-end) e Java com Spring Boot (back-end).
+###
+🚀 Buscando evolução contínua, boas práticas e entrega de valor.
+###
 
 Curioso por natureza, gosto de aprender, criar e colaborar.
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
+
+###
 
 <p align="left">
     <a href="https://github.com/Douglasrs514?tab=repositories">
@@ -89,7 +95,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
 
 ###
 
-<div align="center" border="10px">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Douglasrs514&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Douglasrs514&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph" />
 </div>
@@ -97,7 +103,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
 ###
 
 <img 
-align="left"
+align="center"
 src="https://raw.githubusercontent.com/larissabrezende/larissabrezende/output/snake.svg" alt="Snake animation" />
 
 ###
