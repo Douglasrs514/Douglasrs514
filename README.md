@@ -5,8 +5,8 @@
 👋 Olá, sou o Douglas!
 Desenvolvedor Full Stack em formação, cearense e apaixonado por tecnologia.
 
-🎓 Estudando Engenharia de Software pela Gran Faculdade
-💻 Focado em JavaScript (front e back) e Java com Spring Boot
+🎓 Estudando Análise e Desenvolvimento de Sistemas pela Gran Faculdade
+💻 Focado em JavaScript (front-end) e Java com Spring Boot (back-end)
 🚀 Buscando evolução contínua, boas práticas e entrega de valor
 
 Curioso por natureza, gosto de aprender, criar e colaborar.
@@ -87,25 +87,17 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;
-    "src="https://github-readme-stats.vercel.app/api?username=Douglasrs514&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+###
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasrs514&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
+<div align="left" border="10px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Douglasrs514&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Douglasrs514&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="200" alt="languages graph" />
+</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/larissabrezende/larissabrezende/output/snake.svg" alt="Snake animation" />
+<img 
+align="left"
+src="https://raw.githubusercontent.com/larissabrezende/larissabrezende/output/snake.svg" alt="Snake animation" />
 
 ###
