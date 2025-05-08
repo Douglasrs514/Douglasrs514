@@ -16,6 +16,10 @@ Desenvolvedor Full Stack em formação, cearense e apaixonado por tecnologia.
 Curioso por natureza, gosto de aprender, criar e colaborar.
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
 
+<div align="left" width="15px" height="15px">
+<img src="https://mktcix.com/wp-content/uploads/2025/02/mktcix-gif4.gif">
+</div>
+
 ###
 
 <div align="left">
